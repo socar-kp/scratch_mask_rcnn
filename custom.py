@@ -34,8 +34,6 @@ import datetime
 import numpy as np
 import skimage.draw
 
-import torch
-
 import warnings
 warnings.filterwarnings("ignore")
 
