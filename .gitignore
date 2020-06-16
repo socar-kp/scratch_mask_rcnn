@@ -3,7 +3,15 @@
 
 # Data files and directories common in repo root
 images/
-#*.h5
+mask_rcnn_damage_0001.h5
+mask_rcnn_damage_0002.h5
+mask_rcnn_damage_0003.h5
+mask_rcnn_damage_0004.h5
+mask_rcnn_damage_0005.h5
+mask_rcnn_damage_0006.h5
+mask_rcnn_damage_0007.h5
+mask_rcnn_damage_0008.h5
+mask_rcnn_damage_0009.h5
 balloon.py
 .DS_Store
 *.csv
